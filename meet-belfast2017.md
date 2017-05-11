@@ -81,9 +81,9 @@ Most places take cards (exception: Maggie Mays), but there are plenty of cash ma
 
 A few suggestions:
 
-Food++ | [Molly's Yard](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/mollys-yard/a/poi-eat/408174/1316897) | [Barking Dog](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) | [Holohan's](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/holohans/a/poi-eat/1513730/1316897)
-Food | [Maggie Mays](http://maggiemaysbelfastcafe.co.uk) | [Boojum's](http://www.boojummex.com/belfast-botanic/) | [Falafel](http://www.falafel-belfast.co.uk)
-Coffee++ | [Pocket](http://www.thepocket.coffee) | [Kaffe O](http://www.kaffeo.coffee)
-Coffee | [French Village](http://www.frenchvillagebakery.co.uk) | [Sinnamon](http://sinnamoncoffee.co.uk) | [Clements](http://clementscoffee.com) 
-Beer++ | [Brewbot](https://www.brewbotbelfast.com) | [Woodworkers](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast)
-Beer | [Parlour](http://www.parlourbar.co.uk) | [Empire](http://www.thebelfastempire.com) | [Lavery's](http://www.laverysbelfast.com)
+|---|---|
+|Food | [**Molly's Yard**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/mollys-yard/a/poi-eat/408174/1316897), [**Barking Dog**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897), [**Holohan's**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/holohans/a/poi-eat/1513730/1316897), [Maggie Mays](http://maggiemaysbelfastcafe.co.uk), [Boojum's](http://www.boojummex.com/belfast-botanic/), [Falafel](http://www.falafel-belfast.co.uk) |
+| Coffee | [**Pocket**](http://www.thepocket.coffee), [**Kaffe O**](http://www.kaffeo.coffee), [French Village](http://www.frenchvillagebakery.co.uk), [Sinnamon](http://sinnamoncoffee.co.uk), [Clements](http://clementscoffee.com) |
+| Beer | [**Brewbot**](https://www.brewbotbelfast.com), [**Woodworkers**](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast), [Parlour](http://www.parlourbar.co.uk), [Empire](http://www.thebelfastempire.com), [Lavery's](http://www.laverysbelfast.com) |
+
+(**bold** = better & more expensive)
