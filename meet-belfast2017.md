@@ -80,6 +80,7 @@ Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscen
 Most places take cards (exception: Maggie Mays), but there are plenty of cash machines around. There are also several convenience stores (Centra, Mace, Russell's, Tesco Express). 
 
 A few suggestions:
+
 Food++ | [Molly's Yard](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/mollys-yard/a/poi-eat/408174/1316897) | [Barking Dog](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) | [Holohan's](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/holohans/a/poi-eat/1513730/1316897)
 Food | [Maggie Mays](http://maggiemaysbelfastcafe.co.uk) | [Boojum's](http://www.boojummex.com/belfast-botanic/) | [Falafel](http://www.falafel-belfast.co.uk)
 Coffee++ | [Pocket](http://www.thepocket.coffee) | [Kaffe O](http://www.kaffeo.coffee)
