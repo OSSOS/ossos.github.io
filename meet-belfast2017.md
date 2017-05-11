@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: md-default
 title: "OSSOS 2017 Belfast Summer Workshop"
 section-id: meeting-belfast
 ---
