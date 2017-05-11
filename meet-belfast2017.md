@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "OSSOS 2017 Belfast Summer Workshop"
+section-id: meeting-belfast
 ---
 
 # OSSOS 2017 Belfast Summer Workshop 
