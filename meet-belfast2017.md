@@ -21,11 +21,11 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Stephen Gwyn
 - JJ Kavelaars
 - Charles Chen
-- Mikael Granvik
-- Edward Ashton
 - Philippe Rousselot
-- Daniel Hestroffer
-- Tim Lister
+- Sam Lawler
+- Cory Shankman
+- Edward Ashton (unconfirmed)
+- Daniel Hestroffer (unconfirmed)
 
 ## Schedule
 - Sun 16 July: Evening reception (Location to be decided).
