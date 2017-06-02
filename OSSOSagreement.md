@@ -45,7 +45,7 @@ I agree to all publication rules enumerated below.
 
 A8. Proprietary Data
 
-I will not communicate information regarding the OSSOS detections to anyone outside the OSSOS collaboration (listed on the OSSOS wiki), nor use the OSSOS detections on any work other than the ones I have  previously defined in my role on a Topic Team, until the information is available in the MPC or in refereed final publications.  Conference presentations at major meetings (thus, not colloquia that I may give) can be exempted from this by getting permission from the Core Team (at least 1 week advance notice required); at that time I will enter the title and details of the conference talk into the `Conference Proceedings' list of the `Publications and Proposals' section of the OSSOS wiki.
+I will not communicate information regarding the OSSOS detections to anyone outside the OSSOS collaboration (listed on the OSSOS wiki), nor use the OSSOS detections on any work other than the ones I have  previously defined in my role on a Topic Team, until the information is available in the MPC or in refereed final publications.  Conference presentations at major meetings (thus, not colloquia that I may give) can be exempted from this by getting permission from the Core Team (at least 1 week advance notice required); at that time I will enter the title and details of the conference talk into the 'Conference Proceedings' list of the 'Publications and Proposals' section of the OSSOS wiki.
 
 A9.  Disputes
 
