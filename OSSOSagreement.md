@@ -8,8 +8,9 @@
   Each OSSOS collaborator is a member of either the Core Team (responsible for data collection and distribution, along with writing the overall 'project progress' papers), or a Topic Team (which works as a group to exploit a particular scientific aspect of the science potential of the OSSOS detections).
 
   Non-core members may be involved in two Topic Teams, while core-team members will participate in at most one Topic Team.
+  NEW: As the Core team ceases data acquisition work in summer 2017, they are permitted (but not required) to join a second Topic Team.
   
-  Each Topic Team has a Team Leader who will be the primary contact person with the Core Team, attending monthly OSSOS telecons.  
+  Each Topic Team has a Team Leader who will be the primary contact person with the Core Team, attending monthly OSSOS telecons.  NEW: The PI will continue to run OSSOS telecons as needed after summer 2017.
 
   For most OSSOS collaborators, correspondence will be inside the Topics Teams regarding their joint pursuit of the Team's science goals.  The Team Leader is responsible for insuring that each member of their team has a clear role and set of responsibilities or tasks in the team.  The Core Team's role is defined below, in section C.
 
@@ -21,7 +22,7 @@ I agree to provide my Team Leader with a clear definition of my role within the 
 
 A2. Collaboration and Observing Proposals
 
-I will offer (by April 1 2013) to work jointly with any of my Topic Team collaborators on the projects I or we define, most obviously for joint research, but also possibly joint observing proposals and joint analysis of data acquired as a result of OSSOS interactions. I will make the data I obtain elsewhere on OSSOS targets available to the Topic Team members who are jointly working with me.  The title and co-Is for an observing proposal should be listed on the *Observing Proposals* list in the 'Publications and Proposals' section of the OSSOS wiki.
+I will offer to work jointly with any of my Topic Team collaborators on the projects I or we define, most obviously for joint research, but also possibly joint observing proposals and joint analysis of data acquired as a result of OSSOS interactions. I will make the data I obtain elsewhere on OSSOS targets available to the Topic Team members who are jointly working with me.  The title and co-Is for an observing proposal should be listed on the *Observing Proposals* list in the 'Publications and Proposals' section of the OSSOS wiki.
 
 A3. Collaboration and Publications
 
@@ -37,7 +38,7 @@ My interests may evolve, but I understand that I should first satisfy the curren
 
 A6. Exceptional Objects
 
-I understand that should an 'exceptional' object be found, (defined as an object which the Core Team decides is worth a paper by itself due to being unusual [eg. interstellar comet]) this will result in a first-author paper led by one of the postdocs or students pouring time into the data reduction inside the Core team.  It is possible that no such object will be discovered by the survey; Topic Teams whose defined goals overlap with how the object could be exploited will have the opportunity to participate.
+I understand that should an 'exceptional' object be found, (defined as an object which the Core Team decides is worth a paper by itself due to being unusual [eg. interstellar comet]) this will result in a first-author paper led by one of the postdocs or students pouring time into the data reduction inside the Core team.  It is possible that no such object will be discovered by the survey; Topic Teams whose defined goals overlap with how the object could be exploited will have the opportunity to participate.  NEW: As of June 1, 2017 the new object identification is long past and there appear to be no additional 'exceptional objects' that have not already been claimed.
 
 A7. Publication Rules
 
@@ -93,7 +94,7 @@ C16. A longer Midterm Review report to CFHT in 2015
 
 ## Topic Team responsibilities
 
-*Responsibility to ensure Team responsibilities are met falls on the Team Leader*
+*The duty to ensure Team Responsibilities are met falls on the Team Leader*
 
 T1. Each Topic Team must supply a clear (and quantitatively-defined) selection criteria by which Topic Teams select the portions of the data set that they work with.
 
@@ -110,9 +111,9 @@ T6. Creation of new Topic Teams is at the discretion of the Core Team. Proposals
 
 ## OSSOS Publications Policy
 
-P1.  Once per year the OSSOS project will publish a 'survey progress' paper with the detections to date. All OSSOS Core and Topic
+P1.  The OSSOS project will publish 'survey progress' papers with the detections to date. All OSSOS Core and Topic
 
-Team members will appear on each year's publication if their Team Leader deems that they have contributed to OSSOS during the operational year which the paper describes.
+Team members will appear on each year's publication if their Team Leader deems that they have contributed to OSSOS during the operational period since the preceeding progress paper.
 
 P2. The Core Team leaders are not intending to lead-author other publications, and so Gladman, Kavelaars, Petit, Bannister and any  other postdoc/students that were working with them specifically on OSSOS data flow should be listed on the _first_ topic-team paper based upon newly released data in a given data release. After that, inclusion of each (or any) Core Team member on publications will be at the discretion of each topic team for each paper, depending on how important the paper's authors feel the  Core Team's contribution is.
 
