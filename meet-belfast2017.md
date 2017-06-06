@@ -29,8 +29,8 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 ## Schedule
 - Sun 16 July: Evening reception (Location to be decided).
-- Mon 17 July: Workshop 
-- Tue 18 July: Workshop 
+- Mon 17 July: Workshop.
+- Tue 18 July: Workshop, Dinner.
 - Wed 19 July: Workshop.
 
 ## Location
