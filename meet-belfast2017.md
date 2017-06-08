@@ -47,7 +47,8 @@ For Options 1&2 mention you are attending a meeting at QUB, so you can get the Q
 
 #### Recommended Option 2: [Tara Lodge 4\*](https://www.taralodge.com/)
 - £225-£355/3 nts, 4 min walk to QUB
-- Rooms available on 16th & 17th, £72 (normal room) or £115 (signature room). Limited availability on 18th, £79 (normal room) or £125 (signature room)
+- Rooms available on 16th & 17th, £72 (normal room) or £115 (signature room)
+- Limited availability on 18th, £79 (normal room) or £125 (signature room)
 - tel: +44 28 9059 0900, [info@taralodge.com](info@taralodge.com)
 
 
