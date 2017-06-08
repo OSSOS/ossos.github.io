@@ -39,7 +39,7 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 ## Accommodation
 
-Mention you are attending a meeting at QUB, so you can get the QUB rates below.
+When booking accommodation, mention you are attending a meeting at QUB, so you can get the QUB rates below.
 
 All students and post-docs wishing to have their accommodation covered need to contact [Wes Fraser](mailto:wes.fraser@qub.ac.uk) directly so we can book and pay for them.
 
