@@ -37,15 +37,49 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 [Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Room TR6 01/009
 
-## Accommodation and Expenses
-The Belfast OSSOS team will cover the following expenses for participants:
+## Accommodation
 
+For Options 1&2 mention you are attending a meeting at QUB, so you can get the QUB rates below.
+
+### Option 1
+Malone Lodge ****
+£320/3 nts, 15 min walk to QUB
+frontofficemgr@malonelodgehotel.com | +44 28 9038 8000
+http://www.malonelodgehotelbelfast.com/en/
+
+### Option 2
+
+Tara Lodge ****
+£225-£355/3 nts, 4 min walk to QUB
+Rooms available on 16th & 17th, £72 (normal room) or £115 (signature room). 
+Limited availability on 18th, £79 (normal room) or £125 (signature room).
+info@taralodge.com | +44 (0)28 9059 0900
+https://www.taralodge.com/
+
+### Option 3
+
+Queen's B&B accommodation at Elms Village
+43.50£/nt, 18 min walk to QUB, +44 0 28 9097 4403
+To book, return this form to: accommodation@qub.ac.uk
+http://www.stayatqueens.com/sites/StayAtQueens/SummerAccommodation/SummerSchools/
+
+### Other options
+
+- Radisson Blu Hotel (****) 493£/3 nights (no QUB rate), 16 min walk, +44 28 90 434 065, (email)[info.belfast@radissonblu.com], (www)[https://www.radissonblu.com/en/hotel-belfast]
+ 
+- Holidays Inn Days Inn, 89£/nt (QUB rate, if booked by someone from QUB), 13 min walk, +44 28 90 242 494, (email)[reservations@hibelfastcitycentre.co.uk], (www)[http://www.hibelfastcitycentre.co.uk/]
+ 
+- Jurys Inn, 77£/nt (QUB rate), 15 min walk, +44 28 9053 3500, (email)[mailto:jurysinnbelfast@jurysinns.com], (www)[https://www.jurysinns.com/hotels/belfast]
+
+
+## Expenses
+
+The Belfast OSSOS team will cover the following expenses for participants:
 - registration fee
 - coffee breaks
-- meeting room fees
 
 We will not be able to help with any expenses related to:
-
+- accommodation
 - transportation to the meeting
 
 ## Travel information
