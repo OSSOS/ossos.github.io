@@ -39,13 +39,13 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 ## Accommodation
 
-For Options 1&2 mention you are attending a meeting at QUB, so you can get the QUB rates below.
+Mention you are attending a meeting at QUB, so you can get the QUB rates below.
 
-#### Recommended Option 1: [Malone Lodge 4\*](http://www.malonelodgehotelbelfast.com/en/)
+#### Recommended Option 1: [Malone Lodge \*\*\*\*](http://www.malonelodgehotelbelfast.com/en/)
 - £320/3 nts, 15 min walk to QUB
 - tel: +44 28 9038 8000, [frontofficemgr@malonelodgehotel.com](frontofficemgr@malonelodgehotel.com)
 
-#### Recommended Option 2: [Tara Lodge 4\*](https://www.taralodge.com/)
+#### Recommended Option 2: [Tara Lodge \*\*\*\*](https://www.taralodge.com/)
 - £225-£355/3 nts, 4 min walk to QUB
 - Rooms available on 16th & 17th, £72 (normal room) or £115 (signature room)
 - Limited availability on 18th, £79 (normal room) or £125 (signature room)
