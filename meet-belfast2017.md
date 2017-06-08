@@ -37,6 +37,16 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 [Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Room TR6 01/009
 
+
+## Expenses
+
+The Belfast OSSOS team will be able to cover some expenses for participants:
+
+|---|---|
+| **Covered** | lunches, morning+afternoon coffee breaks, banquet, accommodations for grad students and postdocs (see note in Accommodation |
+| **Not covered** | transportation to meeting, accommodation |
+
+
 ## Accommodation
 
 **All students and post-docs** wishing to have their accommodation covered need to contact [Wes Fraser](mailto:wes.fraser@qub.ac.uk) directly so we can book and pay for them.
@@ -65,15 +75,6 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - [Radisson Blu Hotel 4\*](https://www.radissonblu.com/en/hotel-belfast) 493£/3 nights (no QUB rate), 16 min walk, +44 28 90 434 065, [email](mailto:info.belfast@radissonblu.com)
 - [Holidays Inn Days Inn](http://www.hibelfastcitycentre.co.uk/), 89£/nt (QUB rate, if booked by someone from QUB), 13 min walk, +44 28 90 242 494, [email](mailto:reservations@hibelfastcitycentre.co.uk)
 - [Jurys Inn](https://www.jurysinns.com/hotels/belfast), 77£/nt (QUB rate), 15 min walk, +44 28 9053 3500, [email](mailto:jurysinnbelfast@jurysinns.com)
-
-
-## Expenses
-
-The Belfast OSSOS team will be able to cover some expenses for participants:
-
-|---|---|
-| **Covered** | registration fee, lunches, morning+afternoon coffee breaks, banquet, accommodations for grad students and postdocs (see note in Accommodation |
-| **Not covered** | transportation to meeting, accommodation |
 
 
 ## Travel information
