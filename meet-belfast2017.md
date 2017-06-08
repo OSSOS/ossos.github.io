@@ -43,17 +43,18 @@ For Options 1&2 mention you are attending a meeting at QUB, so you can get the Q
 
 ##### Option 1: [Malone Lodge 4\*](http://www.malonelodgehotelbelfast.com/en/)
 - £320/3 nts, 15 min walk to QUB
-- [email](frontofficemgr@malonelodgehotel.com), +44 28 9038 8000
+- tel: +44 28 9038 8000, [frontofficemgr@malonelodgehotel.com](frontofficemgr@malonelodgehotel.com)
 
 ##### Option 2: [Tara Lodge 4\*](https://www.taralodge.com/)
 - £225-£355/3 nts, 4 min walk to QUB
 - Rooms available on 16th & 17th, £72 (normal room) or £115 (signature room). Limited availability on 18th, £79 (normal room) or £125 (signature room)
-- [email](info@taralodge.com), +44 28 9059 0900
+- tel: +44 28 9059 0900, [info@taralodge.com](info@taralodge.com)
 
 
 ##### Option 3: [Queen's B&B accommodation at Elms Village](http://www.stayatqueens.com/sites/StayAtQueens/SummerAccommodation/SummerSchools/)
 - 43.50£/nt, 18 min walk to QUB
-- To book, return [this form](https://qubstudentcloud-my.sharepoint.com/personal/3046165_ads_qub_ac_uk/_layouts/15/guestaccess.aspx?docid=06be33b85fbc24eff93bdb59869f7dff1&authkey=AThgoV6OECO1qwApWwE724I) to: [accommodation@qub.ac.uk](accommodation@qub.ac.uk), +44 0 28 9097 4403
+- To book, return [this form](https://qubstudentcloud-my.sharepoint.com/personal/3046165_ads_qub_ac_uk/_layouts/15/guestaccess.aspx?docid=06be33b85fbc24eff93bdb59869f7dff1&authkey=AThgoV6OECO1qwApWwE724I) to: [accommodation@qub.ac.uk](accommodation@qub.ac.uk)
+- tel: +44 0 28 9097 4403, [accommodation@qub.ac.uk](accommodation@qub.ac.uk)
 
 
 ##### Other options
@@ -64,6 +65,11 @@ For Options 1&2 mention you are attending a meeting at QUB, so you can get the Q
 
 
 ## Expenses
+
+|---|---|
+|Covered|Not Covered|
+|registration fee | accommodation |
+|coffee breaks | transportation to meeting |
 
 The Belfast OSSOS team will cover the following expenses for participants:
 - registration fee
