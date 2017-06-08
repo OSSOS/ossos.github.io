@@ -41,6 +41,8 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 Mention you are attending a meeting at QUB, so you can get the QUB rates below.
 
+All students and post-docs wishing to have their accommodation covered need to contact [Wes Fraser](mailto:wes.fraser@qub.ac.uk) directly so we can book and pay for them.
+
 #### Recommended Option 1: [Malone Lodge \*\*\*\*](http://www.malonelodgehotelbelfast.com/en/)
 - £320/3 nts, 15 min walk to QUB
 - tel: +44 28 9038 8000, [frontofficemgr@malonelodgehotel.com](frontofficemgr@malonelodgehotel.com)
@@ -70,8 +72,8 @@ Mention you are attending a meeting at QUB, so you can get the QUB rates below.
 The Belfast OSSOS team will be able to cover some expenses for participants:
 
 |---|---|
-| **Covered** | registration fee, accommodation |
-| **Not covered** | coffee breaks, transportation to meeting |
+| **Covered** | registration fee, lunches, morning+afternoon coffee breaks, banquet, accommodations for grad students and postdocs (see note in Accommodation |
+| **Not covered** | transportation to meeting, accommodation |
 
 
 ## Travel information
