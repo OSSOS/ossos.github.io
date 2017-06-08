@@ -66,18 +66,11 @@ For Options 1&2 mention you are attending a meeting at QUB, so you can get the Q
 
 ## Expenses
 
+The Belfast OSSOS team will be able to cover some expenses for participants:
 |---|---|
-|Covered|Not Covered|
-|registration fee | accommodation |
-|coffee breaks | transportation to meeting |
+|**Covered**|registration fee, accommodation |
+|**Not covered** |coffee breaks, transportation to meeting |
 
-The Belfast OSSOS team will cover the following expenses for participants:
-- registration fee
-- coffee breaks
-
-We will not be able to help with any expenses related to:
-- accommodation
-- transportation to the meeting
 
 ## Travel information
 
