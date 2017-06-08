@@ -30,7 +30,7 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 ## Schedule
 - Sun 16 July: Evening reception (Location to be decided).
 - Mon 17 July: Workshop.
-- Tue 18 July: Workshop, Dinner.
+- Tue 18 July: Workshop, Group Dinner.
 - Wed 19 July: Workshop.
 
 ## Location
@@ -43,8 +43,8 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 The Belfast OSSOS team will be able to cover some expenses for participants:
 
 |---|---|
-| **Covered** | lunches, morning+afternoon coffee breaks, banquet, accommodations for grad students and postdocs (see note in Accommodation |
-| **Not covered** | transportation to meeting, accommodation |
+| **Covered** | lunches, morning & afternoon coffee breaks, group dinner, accommodation for grad students and postdocs (see note in Accommodation) |
+| **Not covered** | transportation to meeting, general accommodation |
 
 
 ## Accommodation
