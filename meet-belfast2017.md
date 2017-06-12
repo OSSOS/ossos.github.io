@@ -24,8 +24,8 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Philippe Rousselot
 - Sam Lawler
 - Cory Shankman
-- Edward Ashton (unconfirmed)
-- Daniel Hestroffer (unconfirmed)
+- Christa van Laerhoven
+- Daniel Hestroffer
 
 ## Schedule
 - Sun 16 July: Evening reception (Location to be decided).
