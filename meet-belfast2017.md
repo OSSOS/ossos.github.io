@@ -38,7 +38,7 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 | Wed 19 July | Workshop  |   |
 
 |---|---|
-| Sun 16 July | Evening reception at [Woodworkers](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast) (see map) |
+| Sun 16 July | Evening Reception at [Woodworkers](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast) (see map) |
 | Mon 17 July | Workshop |
 | Tue 18 July | Workshop <br/>Meeting Dinner at [The Barking Dog](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) (see map) |
 | Wed 19 July | Workshop  |
