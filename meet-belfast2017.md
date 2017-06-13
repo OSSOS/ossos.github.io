@@ -33,10 +33,11 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Tue 18 July: Workshop, Group Dinner.
 - Wed 19 July: Workshop.
 
-## Location
+## Location Info and Map
 
 [Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Room TR6 01/009
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XKdDk0brw7_l6k6rUEC7-xV7iek" width="320" height="240"></iframe>
 
 ## Expenses
 
@@ -121,4 +122,3 @@ A few suggestions:
 
 (**bold** = better & more expensive)
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XKdDk0brw7_l6k6rUEC7-xV7iek" width="640" height="480"></iframe>
