@@ -27,6 +27,7 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Christa van Laerhoven
 - Daniel Hestroffer
 
+-----
 
 ## Schedule
 - Sun 16 July: Evening reception at Woodworkers (see below);
@@ -34,6 +35,7 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Tue 18 July: Workshop, Group Dinner;
 - Wed 19 July: Workshop;
 
+-----
 
 ## Location Info and Map
 
@@ -42,6 +44,7 @@ The meeting will be held at the [Graduate School](https://www.qub.ac.uk/sites/gr
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XKdDk0brw7_l6k6rUEC7-xV7iek" width="640" height="480"></iframe>
 Map showing main locations related to the meeting. Red 🏠 symbol indicates meeting location.
 
+-----
 
 ## Travel information
 
@@ -61,6 +64,7 @@ Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscen
 
 **OTHER TRANSPORT OPTIONS:** You can rent a car at all three airports.
 
+-----
 
 ## Accommodation
 
@@ -91,6 +95,7 @@ Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscen
 - [Holidays Inn Days Inn](http://www.hibelfastcitycentre.co.uk/), 89£/nt (QUB rate, if booked by someone from QUB), 13 min walk, +44 28 90 242 494, [email](mailto:reservations@hibelfastcitycentre.co.uk)
 - [Jurys Inn](https://www.jurysinns.com/hotels/belfast), 77£/nt (QUB rate), 15 min walk, +44 28 9053 3500, [email](mailto:jurysinnbelfast@jurysinns.com)
 
+-----
 
 ## Expenses
 
@@ -100,6 +105,7 @@ The Belfast OSSOS team will be able to cover some expenses for participants:
 | **Covered** | lunches, morning & afternoon coffee breaks, group dinner, accommodation for grad students and postdocs (see note in Accommodation) |
 | **Not covered** | transportation to meeting, general accommodation |
 
+-----
 
 ## Useful Links
 
