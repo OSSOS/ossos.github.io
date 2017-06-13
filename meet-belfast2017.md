@@ -102,9 +102,14 @@ Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscen
 
 The Belfast OSSOS team will be able to cover some expenses for participants:
 
-| **Covered** | **Not covered** |
-|---|---|
-| lunches <br/>morning & afternoon coffee breaks <br/>group dinner <br/>accommodation for grad students and postdocs (see note in Accommodation) | transportation to meeting <br/>general accommodation |
+- **Not Covered**
+   - transportation to meeting
+   - general accommodation
+- **Covered**
+   - morning & afternoon coffee breaks
+   - lunches
+   - group dinner
+   - accommodation for grad students and postdocs (see note in Accommodation)
 
 -----
 
