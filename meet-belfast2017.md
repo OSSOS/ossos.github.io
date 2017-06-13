@@ -30,19 +30,19 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 -----
 
 ## Schedule
-- Sun 16 July: Evening reception at Woodworkers (see below);
+- Sun 16 July: Evening reception at [Woodworkers](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast) (see below);
 - Mon 17 July: Workshop;
-- Tue 18 July: Workshop, Group Dinner;
+- Tue 18 July: Workshop, Meeting Dinner at [The Barking Dog](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897);
 - Wed 19 July: Workshop;
 
 -----
 
-## Location Info and Map
+## Location and Map
 
 The meeting will be held at the [Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Training Room \#6 (TR6 01/009).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XKdDk0brw7_l6k6rUEC7-xV7iek" width="640" height="480"></iframe>
-Map showing main locations related to the meeting. Red 🏠 symbol indicates meeting location.
+Map showing main locations related to the meeting.
 
 -----
 
@@ -127,7 +127,7 @@ Most places take cards (exception: Maggie Mays), but there are plenty of cash ma
 A few suggestions:
 
 |---|---|
-|Food | [**Molly's Yard**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/mollys-yard/a/poi-eat/408174/1316897) -- [**Barking Dog**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) -- [**Holohan's**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/holohans/a/poi-eat/1513730/1316897) -- [Maggie Mays](http://maggiemaysbelfastcafe.co.uk) -- [Boojum's](http://www.boojummex.com/belfast-botanic/) -- [Falafel](http://www.falafel-belfast.co.uk) |
+|Food | [**Molly's Yard**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/mollys-yard/a/poi-eat/408174/1316897) -- [**The Barking Dog**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) -- [**Holohan's**](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/holohans/a/poi-eat/1513730/1316897) -- [Maggie Mays](http://maggiemaysbelfastcafe.co.uk) -- [Boojum's](http://www.boojummex.com/belfast-botanic/) -- [Falafel](http://www.falafel-belfast.co.uk) |
 | Coffee | [**Pocket**](http://www.thepocket.coffee) -- [**Kaffe O**](http://www.kaffeo.coffee) -- [French Village](http://www.frenchvillagebakery.co.uk) -- [Sinnamon](http://sinnamoncoffee.co.uk) -- [Clements](http://clementscoffee.com) |
 | Beer | [**Brewbot**](https://www.brewbotbelfast.com) -- [**Woodworkers**](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast) -- [Parlour](http://www.parlourbar.co.uk) -- [Empire](http://www.thebelfastempire.com) -- [Lavery's](http://www.laverysbelfast.com) |
 
