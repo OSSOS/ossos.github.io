@@ -37,7 +37,7 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 [Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Room TR6 01/009
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XKdDk0brw7_l6k6rUEC7-xV7iek" width="320" height="240"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XKdDk0brw7_l6k6rUEC7-xV7iek" width="400" height="300"></iframe>
 
 ## Expenses
 
