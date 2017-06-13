@@ -104,7 +104,7 @@ The Belfast OSSOS team will be able to cover some expenses for participants:
 
 |---|---|
 | **Covered** | **Not covered** | 
-| lunches, morning & afternoon coffee breaks, group dinner, accommodation for grad students and postdocs (see note in Accommodation) | transportation to meeting, general accommodation |
+| lunches <br/>morning & afternoon coffee breaks <br/>group dinner <br/>accommodation for grad students and postdocs (see note in Accommodation) | transportation to meeting <br/>general accommodation |
 
 -----
 
