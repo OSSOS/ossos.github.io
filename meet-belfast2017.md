@@ -10,7 +10,7 @@ section-id: meeting-belfast
 The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collaboration workshop on 17-19 June 2017 at Queen's University Belfast, Northern Ireland. More details on the meeting  format and other information will be added to this page - keep checking.
 
 -----
- 
+
 ## Participants
 - Michele Bannister
 - Pedro Lacerda
@@ -27,25 +27,39 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Christa van Laerhoven
 - Daniel Hestroffer
 
+
 ## Schedule
-- Sun 16 July: Evening reception (Location to be decided).
-- Mon 17 July: Workshop.
-- Tue 18 July: Workshop, Group Dinner.
-- Wed 19 July: Workshop.
+- Sun 16 July: Evening reception at Woodworkers (see below);
+- Mon 17 July: Workshop;
+- Tue 18 July: Workshop, Group Dinner;
+- Wed 19 July: Workshop;
+
 
 ## Location Info and Map
 
-[Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Room TR6 01/009
+The meeting will be held at the [Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Training Room \#6 (TR6 01/009).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1XKdDk0brw7_l6k6rUEC7-xV7iek" width="640" height="480"></iframe>
+Map showing main locations related to the meeting. Red 🏠 symbol indicates meeting location.
 
-## Expenses
 
-The Belfast OSSOS team will be able to cover some expenses for participants:
+## Travel information
 
-|---|---|
-| **Covered** | lunches, morning & afternoon coffee breaks, group dinner, accommodation for grad students and postdocs (see note in Accommodation) |
-| **Not covered** | transportation to meeting, general accommodation |
+You can travel to Ireland by flying to:
+
+1. Belfast City Airport (**BHD**)
+2. Belfast International Airport (**BFS**)
+3. Dublin Airport (**DUB**)
+
+If **arriving at BHD**, take **bus** [Airport Express 600](http://www.belfastcityairport.com/To-From-the-Airport) to Belfast Europa Buscentre (one-way £2.50; return £3.80, valid 1 month; about 15 min journey time). Alternatively, take a **taxi** (£10-£15, about 15 min each way).
+
+If **arriving at BFS**, take **bus** [Airport Express 300](https://www.belfastairport.com/to-from) to Belfast Europa Buscentre (one-way £7.50; return £10.50 valid 1 month; 30-45 min journey time). Alternatively, take a **taxi** (£30-£40, about 40 min each way).
+
+If **arriving at DUB**, take **bus** [Translink-Goldline X1 or X2](http://www.translink.co.uk/Services/Goldline/Timetables/) to Belfast Europa Buscentre (one-way £8; return £16, valid 1 month; ~2 hr each way) or **bus** [Aircoach 705 X](http://www.aircoach.ie/timetables/route-705-x-belfast-dublin-airport-dublin-city-express) to Belfast Glengall St (one-way 16€; return 24€, valid one month; ~2 hr). Prices for Translink/Goldline are for online tickets and may vary; you can also buy tickets on the spot, they should take £ but safer to assume €.
+
+Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscentre/Glengall St to your hotel. About £5 and 5 min ride.
+
+**OTHER TRANSPORT OPTIONS:** You can rent a car at all three airports.
 
 
 ## Accommodation
@@ -78,23 +92,14 @@ The Belfast OSSOS team will be able to cover some expenses for participants:
 - [Jurys Inn](https://www.jurysinns.com/hotels/belfast), 77£/nt (QUB rate), 15 min walk, +44 28 9053 3500, [email](mailto:jurysinnbelfast@jurysinns.com)
 
 
-## Travel information
+## Expenses
 
-You can travel to Ireland by flying to:
+The Belfast OSSOS team will be able to cover some expenses for participants:
 
-1. Belfast City Airport (**BHD**)
-2. Belfast International Airport (**BFS**)
-3. Dublin Airport (**DUB**)
+|---|---|
+| **Covered** | lunches, morning & afternoon coffee breaks, group dinner, accommodation for grad students and postdocs (see note in Accommodation) |
+| **Not covered** | transportation to meeting, general accommodation |
 
-If **arriving at BHD**, take **bus** [Airport Express 600](http://www.belfastcityairport.com/To-From-the-Airport) to Belfast Europa Buscentre (one-way £2.50; return £3.80, valid 1 month; about 15 min journey time). Alternatively, take a **taxi** (£10-£15, about 15 min each way).
-
-If **arriving at BFS**, take **bus** [Airport Express 300](https://www.belfastairport.com/to-from) to Belfast Europa Buscentre (one-way £7.50; return £10.50 valid 1 month; 30-45 min journey time). Alternatively, take a **taxi** (£30-£40, about 40 min each way).
-
-If **arriving at DUB**, take **bus** [Translink-Goldline X1 or X2](http://www.translink.co.uk/Services/Goldline/Timetables/) to Belfast Europa Buscentre (one-way £8; return £16, valid 1 month; ~2 hr each way) or **bus** [Aircoach 705 X](http://www.aircoach.ie/timetables/route-705-x-belfast-dublin-airport-dublin-city-express) to Belfast Glengall St (one-way 16€; return 24€, valid one month; ~2 hr). Prices for Translink/Goldline are for online tickets and may vary; you can also buy tickets on the spot, they should take £ but safer to assume €.
-
-Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscentre/Glengall St to your hotel. About £5 and 5 min ride.
-
-**OTHER TRANSPORT OPTIONS:** You can rent a car at all three airports.
 
 ## Useful Links
 
