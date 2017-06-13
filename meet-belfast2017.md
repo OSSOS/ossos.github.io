@@ -75,7 +75,7 @@ Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscen
 
 **Everyone else**, when booking accommodation, mention you are attending a meeting at QUB, so you can get the QUB rates below.
 
-#### Recommended Options
+### Recommended Options
 1. [**Malone Lodge \*\*\*\***](http://www.malonelodgehotelbelfast.com/en/)
    - £320/3 nts, 15 min walk to QUB
    - tel: +44 28 9038 8000, [frontofficemgr@malonelodgehotel.com](frontofficemgr@malonelodgehotel.com)
@@ -90,7 +90,7 @@ Upon arriving in Belfast by **bus**, you can then take a taxi from Europa Buscen
    - tel: +44 0 28 9097 4403, [accommodation@qub.ac.uk](accommodation@qub.ac.uk)
 
 
-#### Other options
+### Other options
 
 - [Radisson Blu Hotel 4\*](https://www.radissonblu.com/en/hotel-belfast) 493£/3 nights (no QUB rate), 16 min walk, +44 28 90 434 065, [email](mailto:info.belfast@radissonblu.com)
 - [Holidays Inn Days Inn](http://www.hibelfastcitycentre.co.uk/), 89£/nt (QUB rate, if booked by someone from QUB), 13 min walk, +44 28 90 242 494, [email](mailto:reservations@hibelfastcitycentre.co.uk)
