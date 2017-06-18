@@ -1,5 +1,5 @@
 ---
-layout: md-default
+layout: 12column
 
 title: Striking Biases
 section_id: data
