@@ -12,14 +12,15 @@ This page contains answers to Frequently Asked Questions regarding *Planet 9* re
 
 #### North America
   * Cory Shankman : cshankm@uvic.ca
+  * Samantha Lawler : Samantha.Lawler@nrc-cnrc.gc.ca
   * JJ Kavelaars : jj.kavelaars@nrc-cnrc.gc.ca
   * Brett Gladman : gladman@astro.ubc.ca
   
 #### Europe
-  * Michele Bannister:  M.Bannister@qub.ac.uk
+  * Michele Bannister :  M.Bannister@qub.ac.uk
   
 #### ASIA
-  * Ying-Tung Chen:  ytchen@asiaa.sinica.edu.tw
+  * Ying-Tung Chen :  ytchen@asiaa.sinica.edu.tw
   
 
 ###FAQ
