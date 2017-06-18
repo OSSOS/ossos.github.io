@@ -10,20 +10,21 @@ This page contains answers to Frequently Asked Questions regarding *Planet 9* re
 
 ### For additional information please contact:
 
-#### North America
+###### North America
   * Cory Shankman : cshankm@uvic.ca
   * Samantha Lawler : Samantha.Lawler@nrc-cnrc.gc.ca
   * JJ Kavelaars : jj.kavelaars@nrc-cnrc.gc.ca
   * Brett Gladman : gladman@astro.ubc.ca
   
-#### Europe
+###### Europe
   * Michele Bannister :  M.Bannister@qub.ac.uk
   
-#### ASIA
+###### ASIA
   * Ying-Tung Chen :  ytchen@asiaa.sinica.edu.tw
   
 
-###FAQ
+### FAQ
+
 1. **The key points:**
     * The clustering of distant TNO orbits is used to argue for the existence of a very large additional planet in the outer Solar System. 
     * OSSOS is a large mapping survey of the outer Solar System, which began in 2013, before additional planets were argued for. 
