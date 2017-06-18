@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Striking Biases
 section_id: data
 ---
@@ -15,9 +15,9 @@ section_id: data
 </div>
 
 
- ## OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
+## OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
 
- ### Frequently Asked Questions 
+### Frequently Asked Questions 
 
  1. **The key points:**
     * The clustering of distant TNO orbits is used to argue for the existence of a very large additional planet in the outer Solar System. 
