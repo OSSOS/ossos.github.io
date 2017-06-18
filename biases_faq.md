@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: md-default
+
 title: Striking Biases
 section_id: data
 ---
