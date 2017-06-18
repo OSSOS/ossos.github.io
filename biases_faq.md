@@ -8,7 +8,7 @@ section_id: data
      xmlns="http://www.w3.org/1999/html">
   <div class='row'>
     <div class='twelve columns'>
-      {% include section-header.html title="Striking Biases" color="#2471A3" tagline="seeing the expected" class="big" %}
+      {% include section-header.html title="Striking Biases" color="#2471A3" tagline="Seeing the expected" class="big" %}
     </div>
   </div>
   <div class='four spacing'></div>
@@ -34,10 +34,10 @@ A minor planet (known TNOs range from 50-500 km across) that goes around the Sun
 3. **Why might there be a distant planet?**
 Since 2002, a small number of TNOs have been found on orbits that are particularly large, and at closest approach are still outside Neptune’s orbit. There are simulations by other scientists that suggest if a planet exists, it would be able to shepherd their orbits together in space, forming two clusters, while other simulations do not show this effect. As we find more distant TNOs with large orbits, the orientation of their orbits in space tests the idea that there is a clustering in the orbit distribution.
 
-1. **Do the known large-orbit TNOs show clustering?**
+4. **Do the known large-orbit TNOs show clustering?**
 The claim that clustering is present in the known set of large-orbit TNOs was based on combining the rare discoveries of distant TNOs from many different surveys. However, the sensitivity of those surveys is incompletely known. Also, the spread of distant TNO orbits that an extra planet would make was hard to distinguish from the Solar System as we know it, given the current surveys. 
 
-1. **What is OSSOS?**
+5. **What is OSSOS?**
 A survey to hunt for trans-Neptunian objects and carefully measure the path they take around the Sun. 
 OSSOS -- the [Outer Solar System Origins Survey](http://www.ossos-survey.org) -- used the 
 [Canada-France-Hawaii Telescope](http://www.cfht.hawaii.edu) to look at eight patches of sky throughout each year over 
@@ -47,9 +47,9 @@ TNOs.   However,we have found eight large-orbit TNOs among our 800+ discoveries.
 the existence of a planet.
 <div class='full parallax' style='background-image: url(images/large_a_orbits_zoom.png); color: #fff;'
      xmlns="http://www.w3.org/1999/html">
+     <div class='four spacing'></div>
 </div>
-
-1. **Why is this set of eight discoveries special?**
+6. **Why is this set of eight discoveries special?**
 The eight OSSOS discoveries are all from a single, exquisitely calibrated survey, and there are roughly as many of them as in the previous combined set. They form an independent test of the idea that a massive planet at extreme distance from the Sun is shaping the outer solar system. 
     * The eight OSSOS discoveries have orbits oriented across a wide range of angles.
     * The observed orbits are statistically consistent with random. 
@@ -57,10 +57,10 @@ The eight OSSOS discoveries are all from a single, exquisitely calibrated survey
     * One of them sits at right angles to the proposed two clusters. 
     * The orbits are not tightly clustered.
 
-1. **How did you test for any clustering effect from a distant planet?**
+7. **How did you test for any clustering effect from a distant planet?**
 We simulated the orbits of a uniform spread of tens of thousands of distant TNOs. We tested which ones would be visible to our survey. The simulation showed that there are areas of the sky, like the dense star fields of the Galaxy, where certain orientations of TNO orbits become very hard to discover. We find that the clustering effect that has been attributed to a planet could easily result from a combination of seasonal weather (the TNOs are all discovered in limited ground based observing projects) and where in the sky it is easier to discover distant TNOs.
 
-1. **So… is there a planet?**
+8. **So… is there a planet?**
 OSSOS can not prove, or rule out, the existence of the hypothesized “Planet 9” (a planet more than 10 times the 
 mass of Earth and on an orbit that extends beyond 500 astronomical units). The idea of a dwarf planet, maybe as big as 
 Mars, is still entirely possible.  The OSSOS discoveries and observational simulations (using our extremely 
