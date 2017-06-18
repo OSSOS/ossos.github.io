@@ -39,7 +39,13 @@ Since 2002, a small number of TNOs have been found on orbits that are particular
 The claim that clustering is present in the known set of large-orbit TNOs was based on combining the rare discoveries of distant TNOs from many different surveys. However, the sensitivity of those surveys is incompletely known. Also, the spread of distant TNO orbits that an extra planet would make was hard to distinguish from the Solar System as we know it, given the current surveys. 
 
 1. **What is OSSOS?**
-A survey to hunt for trans-Neptunian objects and carefully measure the path they take around the Sun. OSSOS — the Outer Solar System Origins Survey — used the Canada-France-Hawaii Telescope to look at eight patches of sky throughout each year over 2013-2017. More than 800 TNOs were discovered by OSSOS, doubling the number of known TNOs with accurate orbits; most of them orbit relatively near Neptune. OSSOS was not designed to hunt for extra planets, nor for the large-orbit TNOs.   However,we have found eight large-orbit TNOs among our 800+ discoveries. These eight are useful in testing for the existence of a planet.
+A survey to hunt for trans-Neptunian objects and carefully measure the path they take around the Sun. 
+OSSOS -- the [Outer Solar System Origins Survey](http://www.ossos-survey.org) -- used the 
+[Canada-France-Hawaii Telescope](http://www.cfht.hawaii.edu) to look at eight patches of sky throughout each year over 
+2013-2017. More than 800 TNOs were discovered by OSSOS, doubling the number of known TNOs with accurate orbits; 
+most of them orbit relatively near Neptune. OSSOS was not designed to hunt for extra planets, nor for the large-orbit 
+TNOs.   However,we have found eight large-orbit TNOs among our 800+ discoveries. These eight are useful in testing for 
+the existence of a planet.
 
 1. **Why is this set of eight discoveries special?**
 The eight OSSOS discoveries are all from a single, exquisitely calibrated survey, and there are roughly as many of them as in the previous combined set. They form an independent test of the idea that a massive planet at extreme distance from the Sun is shaping the outer solar system. 
@@ -54,7 +60,11 @@ The eight OSSOS discoveries are all from a single, exquisitely calibrated survey
 We simulated the orbits of a uniform spread of tens of thousands of distant TNOs. We tested which ones would be visible to our survey. The simulation showed that there are areas of the sky, like the dense star fields of the Galaxy, where certain orientations of TNO orbits become very hard to discover. We find that the clustering effect that has been attributed to a planet could easily result from a combination of seasonal weather (the TNOs are all discovered in limited ground based observing projects) and where in the sky it is easier to discover distant TNOs.
 
 1. **So… is there a planet?**
-The idea of a dwarf planet, maybe as big as Mars, is still entirely possible. OSSOS can not prove, or rule out, the existence of the hypothesized “Planet 9” (a planet more than 10 times the mass of Earth and on an orbit that extends beyond 500 astronomical units). The OSSOS discoveries and observational simulations using our extremely well-calibrated survey substantially weaken the evidence that has been used to justify the need for an additional planet in our solar system.
+OSSOS can not prove, or rule out, the existence of the hypothesized “Planet 9” (a planet more than 10 times the 
+mass of Earth and on an orbit that extends beyond 500 astronomical units). The idea of a dwarf planet, maybe as big as 
+Mars, is still entirely possible.  The OSSOS discoveries and observational simulations (using our extremely 
+well-calibrated survey) substantially weaken the evidence that has been used to justify the 
+need for an additional very massive planet in our solar system.
 
 ### For additional information please contact:
 
