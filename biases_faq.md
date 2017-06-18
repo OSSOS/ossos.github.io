@@ -1,14 +1,24 @@
 ---
 layout: default
 title: Publications
-section_id: biases_faq
+section_id: data
 ---
 
-#*OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects.* (Shankman et al., 2017)#
+#OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)#
 
 This page contains answers to Frequently Asked Questions regarding *Planet 9* related to this paper. 
-Other OSSOS publications: http://www.ossos-survey.org/publications.html
 
+## For additional information please contact:##
+
+###North America### 
+  * Cory Shankman : cshankm@uvic.ca
+  * JJ Kavelaars : jj.kavelaars@nrc-cnrc.gc.ca
+  * Brett Gladman : gladman@astro.ubc.ca
+###Europe###
+  * Michele Bannister:  M.Bannister@qub.ac.uk
+  
+
+##FAQ##
 1. **The key points:**
     * The clustering of distant TNO orbits is used to argue for the existence of a very large additional planet in the outer Solar System. 
     * OSSOS is a large mapping survey of the outer Solar System, which began in 2013, before additional planets were argued for. 
