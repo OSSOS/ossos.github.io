@@ -17,24 +17,7 @@ section_id: data
 
 ## OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
 
-This page contains answers to Frequently Asked Questions regarding *Planet 9* related to this paper. 
-
-### For additional information please contact:
-
-###### North America
-  * Cory Shankman : cshankm@uvic.ca
-  * Samantha Lawler : Samantha.Lawler@nrc-cnrc.gc.ca
-  * JJ Kavelaars : jj.kavelaars@nrc-cnrc.gc.ca
-  * Brett Gladman : gladman@astro.ubc.ca
-  
-###### Europe
-  * Michele Bannister :  M.Bannister@qub.ac.uk
-  
-###### ASIA
-  * Ying-Tung Chen :  ytchen@asiaa.sinica.edu.tw
-  
-
-### FAQ
+### Frequently Asked Questions 
 
 1. **The key points:**
     * The clustering of distant TNO orbits is used to argue for the existence of a very large additional planet in the outer Solar System. 
@@ -64,3 +47,17 @@ We simulated the orbits of a uniform spread of tens of thousands of distant TNOs
 1. **So… is there a planet?**
 The idea of a dwarf planet, maybe as big as Mars, is still entirely possible. OSSOS can not prove, or rule out, the existence of the hypothesized “Planet 9” (a planet more than 10 times the mass of Earth and on an orbit that extends beyond 500 astronomical units). The OSSOS discoveries and observational simulations using our extremely well-calibrated survey substantially weaken the evidence that has been used to justify the need for an additional planet in our solar system.
 
+### For additional information please contact:
+
+###### North America
+  * Cory Shankman : cshankm@uvic.ca
+  * Samantha Lawler : Samantha.Lawler@nrc-cnrc.gc.ca
+  * JJ Kavelaars : jj.kavelaars@nrc-cnrc.gc.ca
+  * Brett Gladman : gladman@astro.ubc.ca
+  
+###### Europe
+  * Michele Bannister :  M.Bannister@qub.ac.uk
+  
+###### ASIA
+  * Ying-Tung Chen :  ytchen@asiaa.sinica.edu.tw
+  
