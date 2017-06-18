@@ -4,7 +4,7 @@ title: Publications
 section_id: data
 ---
 
-<div class='full parallax' style='background-image: url(images/cfht/cfht_night.jpg); color: #fff;'
+<div class='full parallax' style='background-image: url(images/large_a_orbits.png); color: #fff;'
      xmlns="http://www.w3.org/1999/html">
   <div class='row'>
     <div class='twelve columns'>
