@@ -8,7 +8,7 @@ section_id: data
      xmlns="http://www.w3.org/1999/html">
   <div class='row'>
     <div class='twelve columns'>
-      {% include section-header.html title="Striking Biases FAQ" color="#fff" tagline="seeing the expected" class="big" %}
+      {% include section-header.html title="Striking Biases FAQ" color="#2471A3" tagline="seeing the expected" class="big" %}
     </div>
   </div>
   <div class='four spacing'></div>
