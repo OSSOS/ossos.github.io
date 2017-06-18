@@ -45,6 +45,9 @@ OSSOS -- the [Outer Solar System Origins Survey](http://www.ossos-survey.org) --
 most of them orbit relatively near Neptune. OSSOS was not designed to hunt for extra planets, nor for the large-orbit 
 TNOs.   However,we have found eight large-orbit TNOs among our 800+ discoveries. These eight are useful in testing for 
 the existence of a planet.
+<div class='full parallax' style='background-image: url(images/large_a_orbits_zoom.png); color: #fff;'
+     xmlns="http://www.w3.org/1999/html">
+</div>
 
 1. **Why is this set of eight discoveries special?**
 The eight OSSOS discoveries are all from a single, exquisitely calibrated survey, and there are roughly as many of them as in the previous combined set. They form an independent test of the idea that a massive planet at extreme distance from the Sun is shaping the outer solar system. 
@@ -53,7 +56,6 @@ The eight OSSOS discoveries are all from a single, exquisitely calibrated survey
     * The OSSOS detections do not all follow the pattern seen in the previous sample. 
     * One of them sits at right angles to the proposed two clusters. 
     * The orbits are not tightly clustered.
-
 
 1. **How did you test for any clustering effect from a distant planet?**
 We simulated the orbits of a uniform spread of tens of thousands of distant TNOs. We tested which ones would be visible to our survey. The simulation showed that there are areas of the sky, like the dense star fields of the Galaxy, where certain orientations of TNO orbits become very hard to discover. We find that the clustering effect that has been attributed to a planet could easily result from a combination of seasonal weather (the TNOs are all discovered in limited ground based observing projects) and where in the sky it is easier to discover distant TNOs.
@@ -79,6 +81,3 @@ need for an additional very massive planet in our solar system.
 ###### ASIA
   * Ying-Tung Chen :  ytchen@asiaa.sinica.edu.tw
   
-<div class='full parallax' style='background-image: url(images/large_a_orbits_zoom.png); color: #fff;'
-     xmlns="http://www.w3.org/1999/html">
-</div>
