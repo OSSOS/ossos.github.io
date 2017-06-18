@@ -4,11 +4,13 @@ title: Publications
 section_id: data
 ---
 
-#OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)#
+
+
+# OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017) #
 
 This page contains answers to Frequently Asked Questions regarding *Planet 9* related to this paper. 
 
-## For additional information please contact:##
+### For additional information please contact: ###
 
 ###North America### 
   * Cory Shankman : cshankm@uvic.ca
