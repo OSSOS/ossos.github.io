@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Striking Biases
 section_id: data
 ---
