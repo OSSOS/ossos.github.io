@@ -4,6 +4,17 @@ title: Publications
 section_id: data
 ---
 
+<div class='full parallax' style='background-image: url(images/cfht/cfht_night.jpg); color: #fff;'
+     xmlns="http://www.w3.org/1999/html">
+  <div class='row'>
+    <div class='twelve columns'>
+      {% include section-header.html title="Striking Biases FAQ" color="#fff" tagline="seeing the expected" class="big" %}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>
+
+
 ## OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
 
 This page contains answers to Frequently Asked Questions regarding *Planet 9* related to this paper. 
