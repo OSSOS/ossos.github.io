@@ -29,7 +29,7 @@ section_id: data
     * We have simulated the OSSOS sensitivity to a wide range of orbit shapes and tilts.
     * Using our new independent sample, OSSOS finds that the orbit distribution in the OSSOS sample is fully consistent with being drawn from a uniform sample and does not require the orbital clustering in the outer Solar System that others have claimed.
     * We show how apparent clustering of orbits can be a natural outcome of the effects of observing the sky. Certain orientations of distant TNO orbits become easier or harder to discover, from the combination of weather through the seasons and which part of the sky is observed. These effects may have led to the two apparent “clusters” among the discovered distant TNOs.
-<\br>
+
 
 2. **What is a trans-Neptunian object (TNO)?**
 A minor planet (known TNOs range from 50-500 km across) that goes around the Sun a long way out, beyond the orbit of the icy giant planet Neptune. They are small worlds left over from the early formation of the Solar System. Their orbits today tell us about how in the past the giant planets of the Solar System have changed where they orbit.
@@ -56,7 +56,7 @@ The eight OSSOS discoveries are all from a single, exquisitely calibrated survey
     * The OSSOS detections do not all follow the pattern seen in the previous sample. 
     * One of them sits at right angles to the proposed two clusters. 
     * The orbits are not tightly clustered.
-<\br>
+
 
 7. **How did you test for any clustering effect from a distant planet?**
 We simulated the orbits of a uniform spread of tens of thousands of distant TNOs. We tested which ones would be visible to our survey. The simulation showed that there are areas of the sky, like the dense star fields of the Galaxy, where certain orientations of TNO orbits become very hard to discover. We find that the clustering effect that has been attributed to a planet could easily result from a combination of seasonal weather (the TNOs are all discovered in limited ground based observing projects) and where in the sky it is easier to discover distant TNOs.
