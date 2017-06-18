@@ -12,6 +12,8 @@ section_id: data
     </div>
   </div>
   <div class='four spacing'></div>
+  <div class='four spacing'></div>
+
 </div>
 
 
@@ -45,10 +47,7 @@ OSSOS -- the [Outer Solar System Origins Survey](http://www.ossos-survey.org) --
 most of them orbit relatively near Neptune. OSSOS was not designed to hunt for extra planets, nor for the large-orbit 
 TNOs.   However,we have found eight large-orbit TNOs among our 800+ discoveries. These eight are useful in testing for 
 the existence of a planet.
-<div class='full parallax' style='background-image: url(images/large_a_orbits_zoom.png); color: #fff;'
-     xmlns="http://www.w3.org/1999/html">
-     <div class='four spacing'></div>
-</div>
+
 6. **Why is this set of eight discoveries special?**
 The eight OSSOS discoveries are all from a single, exquisitely calibrated survey, and there are roughly as many of them as in the previous combined set. They form an independent test of the idea that a massive planet at extreme distance from the Sun is shaping the outer solar system. 
     * The eight OSSOS discoveries have orbits oriented across a wide range of angles.
