@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications
+title: Striking Biases
 section_id: data
 ---
 
