@@ -3,31 +3,26 @@ layout: default
 title: Publications
 section_id: data
 ---
-'''html
-<div class='full.no-padding'>
-  <div class='row'>
-    <div class='large-12 columns'>
-      {% include section-header.html title="Striking biases in detection." %}
-      <div class='spacing'></div>
-'''
 
-
-# OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
+## OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
 
 This page contains answers to Frequently Asked Questions regarding *Planet 9* related to this paper. 
 
 ### For additional information please contact:
 
-### North America
+#### North America
   * Cory Shankman : cshankm@uvic.ca
   * JJ Kavelaars : jj.kavelaars@nrc-cnrc.gc.ca
   * Brett Gladman : gladman@astro.ubc.ca
   
-### Europe
+#### Europe
   * Michele Bannister:  M.Bannister@qub.ac.uk
   
+#### ASIA
+  * Ying-Tung Chen:  ytchen@asiaa.sinica.edu.tw
+  
 
-##FAQ
+###FAQ
 1. **The key points:**
     * The clustering of distant TNO orbits is used to argue for the existence of a very large additional planet in the outer Solar System. 
     * OSSOS is a large mapping survey of the outer Solar System, which began in 2013, before additional planets were argued for. 
@@ -56,8 +51,3 @@ We simulated the orbits of a uniform spread of tens of thousands of distant TNOs
 1. **So… is there a planet?**
 The idea of a dwarf planet, maybe as big as Mars, is still entirely possible. OSSOS can not prove, or rule out, the existence of the hypothesized “Planet 9” (a planet more than 10 times the mass of Earth and on an orbit that extends beyond 500 astronomical units). The OSSOS discoveries and observational simulations using our extremely well-calibrated survey substantially weaken the evidence that has been used to justify the need for an additional planet in our solar system.
 
-'''html
-</div>
-</div>
-</div>
-'''
