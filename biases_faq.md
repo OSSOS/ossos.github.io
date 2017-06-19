@@ -18,6 +18,7 @@ section_id: data
 
 
 ## OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
+
 [Available on ArXiv, to appear in AJ](https://arxiv.org/abs/1706.05348)
 
 ### Frequently Asked Questions 
@@ -83,4 +84,3 @@ need for an additional very massive planet in our solar system.
 ###### ASIA
   * Ying-Tung Chen :  ytchen@asiaa.sinica.edu.tw
   
-{% include figure.html src="images/large_a_orbits_zoom.png" caption=“Large semimajor axis orbits from OSSOS" %}
