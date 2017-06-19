@@ -26,7 +26,7 @@ section_id: data
  1. **The key points:**
     * The clustering of distant TNO orbits is used to argue for the existence of a very large additional planet in the outer Solar System. 
     * OSSOS is a large mapping survey of the outer Solar System, which began in 2013, before additional planets were argued for. 
-    * Statistical testing of the distribution orbit shapes and orientations is made possible by the precise calibration of OSSOS. 
+    * Statistical testing of the distribution of orbit shapes and orientations is made possible by the precise calibration of OSSOS. 
     * Eight of the minor planets that OSSOS has found are on large orbits of the sort used to argue for a planet: they have closest approaches to the Sun that are beyond Neptune’s orbit, and mean distances that are greater than 150 astronomical units. 
     * We have simulated the OSSOS sensitivity to a wide range of orbit shapes and tilts.
     * Using our new independent sample, OSSOS finds that the orbit distribution in the OSSOS sample is fully consistent with being drawn from a uniform sample and does not require the orbital clustering in the outer Solar System that others have claimed.
