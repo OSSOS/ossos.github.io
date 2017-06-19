@@ -68,8 +68,6 @@ Mars, is still entirely possible.  The OSSOS discoveries and observational simul
 well-calibrated survey) substantially weaken the evidence that has been used to justify the 
 need for an additional very massive planet in our solar system.
 
-{% include figure.html src="images/large_a_orbits_zoom.png" caption=“Large semimajor axis orbits from OSSOS" %}
-
 ### For additional information please contact:
 
 ###### North America
