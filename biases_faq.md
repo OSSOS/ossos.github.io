@@ -18,6 +18,7 @@ section_id: data
 
 
 ## OSSOS VI. Striking biases in the detection of large semimajor axis Trans-Neptunian Objects. (Shankman et al., 2017)
+[Available on ArXiv, to appear in AJ](https://arxiv.org/abs/1706.05348)
 
 ### Frequently Asked Questions 
 
