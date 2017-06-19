@@ -53,7 +53,7 @@ the existence of a planet.
 
 6. **Why is this set of eight discoveries special?**
 The eight OSSOS discoveries are all from a single, exquisitely calibrated survey, and there are roughly as many of them as in the previous combined set. They form an independent test of the idea that a massive planet at extreme distance from the Sun is shaping the outer solar system. 
-    * [The eight OSSOS discoveries have orbits oriented across a wide range of angles.](images/OSSOS_150_at_1500.svg)
+    * The eight OSSOS discoveries have orbits oriented across a wide range of angles.
     * The observed orbits are statistically consistent with random. 
     * The OSSOS detections do not all follow the pattern seen in the previous sample. 
     * One of them sits at right angles to the proposed two clusters. 
