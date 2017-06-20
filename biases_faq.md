@@ -84,3 +84,5 @@ need for an additional very massive planet in our solar system.
 ###### ASIA
   * Ying-Tung Chen :  ytchen@asiaa.sinica.edu.tw
   
+
+{% include figure.html src="images/OSSOS_largea_top_down.png" caption="The orbits of the eight trans-Neptunian objects discovered by OSSOS that are discussed in Shankman et al. 2017. All have orbits with perihelia greater than Neptune's orbit, and semimajor axes greater than 150 au. The central blue circle indicates Neptune's orbit, and the white dashed circle a distance of 250 au from the Sun." %}
