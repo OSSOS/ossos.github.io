@@ -21,6 +21,14 @@ section_id: data
 
 [Available on ArXiv, to appear in AJ](https://arxiv.org/abs/1706.05348)
 
+### Science
+
+An important point in this discussion is that what's happening here is the scientific method, keep in mind how science is meant to work:
+   * Data gives suggestions and people provide interpretation which leads to an hypothesis. 
+   * The hypothesis is then tested against independent data. 
+That is what science is about. Our results don't say there can't be or isn't another large mass planet, they just say their doesn't need to be one.
+
+
 ### Frequently Asked Questions 
 
  1. **The key points:**
