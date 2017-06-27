@@ -102,7 +102,7 @@ T2. The team should report monthly progress (via Team Leaders, at the monthly OS
 
 T3. Vetting the 'active collaborator' list for item P1 below.
 
-T4. Encouraging at least one or more Topic Team member, including themselves, to be present at each OSSOS physical team meeting to present a status report to all OSSOS collaboration member. The intent is for one reunion per year; the Oct 2013 DPS meeting in Denver will be first full-day OSSOS meeting with Topic Team results presented).  The intention is that the 2014 meeting will occur in France.
+T4. Encouraging at least one or more Topic Team member, including themselves, to be present at each OSSOS physical team meeting to present a status report to all OSSOS collaboration members. The intent is for one reunion per year; the Oct 2013 DPS meeting in Denver will be first full-day OSSOS meeting with Topic Team results presented.  The 2014 meeting was in France.  In 2015 and 2016 meetings occurred the day before the DPS meeting.  In 2017 the collaboration meeting will be in Belfast in July.
 
 T5. Process for new members:  If a new member wishes to join a Topic Team, the new member must provide an outline of the work they propose to do. The Team Leader will distribute the proposal to all Topic Team members and obtain unanimous consent.  After then updating the roles portion of the Team's wiki, the proposal will then be forwarded to the Core Team for final approval to join  the OSSOS collaboration; the Core Team will only raise an issue if the newly proposed work might be seen to conflict with another Team.
 
