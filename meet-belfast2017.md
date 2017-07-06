@@ -43,13 +43,13 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 |            | **15:00** Topic Teams Session #2                               |   |
 | **Tue 18** | **09:00** Short Topic Team Presentations                       |   |
 |            | **10:30** Coffee Break                                         |   |
-|            | **11:00** Future-looking Presentations                         |   |
+|            | **11:00** Future-Looking Presentations                         |   |
 |            | **12:30** Lunch                                                |   |
-|            | **13:30** Half-baked Ideas & Butterfly-chasing Discussion      |   |
+|            | **13:30** Half-Baked Ideas / Butterfly-Chasing Discussion      |   |
 |            | **15:00** Pocket Coffee Walk                                   |   | 
-|            | **15:00** Half-baked Ideas & Butterfly-chasing Discussion      |   |
+|            | **15:00** Half-Baked Ideas / Butterfly-Chasing Discussion      |   |
 |            |   | **18:30** Meeting Dinner at [The Barking Dog](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) (see map) |
-| **Wed 19** | **09:00** Last Half-baked Ideas Session                        |   |
+| **Wed 19** | **09:00** Last Half-Baked Ideas Session                        |   |
 |            | **10:30** Coffee Break                                         |   |
 |            | **11:00** Half-baked Ideas Summaries                           |   |
 |            | **12:30** Lunch                                                |   |
