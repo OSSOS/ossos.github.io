@@ -33,26 +33,26 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 |   | Work | Play |
 |:---:|:---|:---:|
-| **Sun 16 July** |   | **19:00** Evening reception at [Woodworkers](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast) (see map) |
-| **Mon 17 July** | **09:00** Presentation Session #1                              |   |
-|                 | **10:30** Coffee Break                                         |   |
-|                 | **11:00** Presentation Session #2                              |   |
-|                 | **12:30** Lunch                                                |   |
-|                 | **13:30** Topic Team Session #1                                |   |
-|                 | **15:00** Pocket Coffee Walk                                   |   | 
-|                 | **15:00** Topic Teams Session #2                               |   |
-| **Tue 18 July** | **09:00** Short Topic Team Presentations                       |   |
-|                 | **10:30** Coffee Break                                         |   |
-|                 | **11:00** Future-looking Presentations                         |   |
-|                 | **12:30** Lunch                                                |   |
-|                 | **13:30** Half-baked Ideas & Butterflies-chasing Discussion    |   |
-|                 | **15:00** Pocket Coffee Walk                                   |   | 
-|                 | **15:00** Half-baked Ideas & Butterflies-chasing Discussion    |   |
-|                 |   | **18:30** Meeting Dinner at [The Barking Dog](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) (see map) |
-| **Wed 19 July** | **09:00** Last Half-baked Ideas Session                        |   |
-|                 | **10:30** Coffee Break                                         |   |
-|                 | **11:00** Half-baked Ideas Summaries                           |   |
-|                 | **12:30** Lunch                                                |   |
+| **Sun 16th** |   | **19:00** Evening reception at [Woodworkers](http://www.laverysbelfast.com/the-woodworkers-craft-beer-bar-belfast) (see map) |
+| **Mon 17th** | **09:00** Presentation Session #1                              |   |
+|              | **10:30** Coffee Break                                         |   |
+|              | **11:00** Presentation Session #2                              |   |
+|              | **12:30** Lunch                                                |   |
+|              | **13:30** Topic Team Session #1                                |   |
+|              | **15:00** Pocket Coffee Walk                                   |   | 
+|              | **15:00** Topic Teams Session #2                               |   |
+| **Tue 18th** | **09:00** Short Topic Team Presentations                       |   |
+|              | **10:30** Coffee Break                                         |   |
+|              | **11:00** Future-looking Presentations                         |   |
+|              | **12:30** Lunch                                                |   |
+|              | **13:30** Half-baked Ideas & Butterflies-chasing Discussion    |   |
+|              | **15:00** Pocket Coffee Walk                                   |   | 
+|              | **15:00** Half-baked Ideas & Butterflies-chasing Discussion    |   |
+|              |   | **18:30** Meeting Dinner at [The Barking Dog](http://www.lonelyplanet.com/northern-ireland/belfast/restaurants/barking-dog/a/poi-eat/1220201/1316897) (see map) |
+| **Wed 19th** | **09:00** Last Half-baked Ideas Session                        |   |
+|              | **10:30** Coffee Break                                         |   |
+|              | **11:00** Half-baked Ideas Summaries                           |   |
+|              | **12:30** Lunch                                                |   |
 
 -----
 
