@@ -26,6 +26,8 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Cory Shankman
 - Christa van Laerhoven
 - Daniel Hestroffer
+- Nahuel Cabral
+- Tom Seccull
 
 -----
 
