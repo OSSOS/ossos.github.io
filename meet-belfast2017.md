@@ -58,6 +58,33 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 
 -----
 
+## Presentations
+
+### 1st day
+- Michele - Core activities summary
+- Stephen - Gaia analysis and data calibrations
+- Michele - what’s up with the non-tracked objects?
+- Wes - extended data products. TRIPPy-ed out OSSOS and Col-OSSOS
+- Brett - Future projects on orbital and size distributions
+- Pedro -  Phase-curve analysis
+- Phillipe - Searching for Cometary Activity
+- Charles - Reporting on the 2:1 resonances
+
+### 1st day
+- Michele - Surfaces of the stirred objects beyond the 2:1
+- Sam - Resonant Trails or Beards; The 7:4 resonance
+- Wes - Blue binaries; Col-OSSOS: what’s next?
+- Rosemary - The 2:1 colours project
+
+### Interested in attending topic discussions
+- Meg
+- Rosemary
+- Jean-Marc
+- Ruth
+
+
+-----
+
 ## Location and Map
 
 The meeting will be held at the [Graduate School](https://www.qub.ac.uk/sites/graduateschool/AbouttheGraduateSchool/), Training Room \#6 (TR6 01/009).
