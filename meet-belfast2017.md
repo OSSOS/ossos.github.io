@@ -7,7 +7,7 @@ section-id: meeting-belfast
 # OSSOS Belfast Workshop 2017
 17-19 July, Queen's University Belfast, Northern Ireland
 
-The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collaboration workshop on 17-19 June 2017 at Queen's University Belfast, Northern Ireland. More details on the meeting  format and other information will be added to this page - keep checking.
+The Belfast [OSSOS](http://www.ossos-survey.org/) team host an OSSOS collaboration workshop on 17-19 June 2017 at Queen's University Belfast, Northern Ireland. More details on the meeting format and other information will be added to this page - keep checking.
 
 -----
 
