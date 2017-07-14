@@ -70,7 +70,7 @@ The Belfast [OSSOS](http://www.ossos-survey.org/) team will host an OSSOS collab
 - Phillipe - Searching for Cometary Activity
 - Charles - Reporting on the 2:1 resonances
 
-### 1st day
+### 2nd day
 - Michele - Surfaces of the stirred objects beyond the 2:1
 - Sam - Resonant Trails or Beards; The 7:4 resonance
 - Wes - Blue binaries; Col-OSSOS: what’s next?
