@@ -10,10 +10,15 @@ section_id: data
       {% include section-header.html title="OSSOS survey simulation" tagline="Comparing models to Reality" %}
       <div class='spacing'></div>
       <p>
-The <a href=https://github.com/OSSOS/SurveySimulator>OSSOS Survey Simulator</a> provides user the ability to simulate the outer solar system objects that a 
+The OSSOS Survey Simulator provides user the ability to simulate the outer solar system objects that a 
 well-characterized survey would have detected, given an input model.  One uses the Simulator to compare 
 a Characterized Detection list (like those from OSSOS, or CFEPS) to the model realization of the solar system.
-The simulated detections tell you what kinds of objects would be detected if that model were true.
+The simulated detections tell you what kinds of objects would be detected IF that model were true, and thus the Simulator
+        is a 'model rejection tool'.
+        
+    The <a href=https://github.com/OSSOS/SurveySimulator> CURRENT PUBLIC RELEASE, SurvSimB </a> (10/10/2018) 
+        provides the characterization information for : CFEPS(+ CFEPS HiLat), MA (Alexandersen's thesis survey), and 
+        the first half of OSSOS (E+O+L+H blocks).
 </p>
 <p>
 There are number of ways you could make use of the Simulator:
@@ -21,10 +26,16 @@ There are number of ways you could make use of the Simulator:
 <p>
 * You could download the OSSOS characterization files and then run your own model of the outer Solar System through the simulator to see what sorts of trans-neptunian objects (TNOs) OSSOS would have detected given your model.  Comparing these ‘Simulator Detected’ objects to the Characterized Detection could be interesting.
 <br>
-* You could compare some independent (non-CFEPS) model to your own detections after biasing the model via the SurveySimulator and using efficiency files appropriate for your survey.
+* You could compare some independent (non-CFEPS) model to your own detections after biasing the model via the a modified 
+  version of the SurveySimulator that uses efficiency files appropriate for your survey.  (Having a fully  tracked set
+  of detections would usually be the hurdle to doing this).
 </p>
 <p>
-July 11/2016 : The first public release of the OSSOS survey simulator is scheduled to occur by August 2016.
+RELEASE HISTORY
+  <p>
+    Aug 2016 : The first public release of the OSSOS survey simulator, SurvsimA.
+    <p>
+    Oct 2018 : The second public release of the OSSOS survey simulator, SurvsimB.
       </p>
     </div>
   </div>
