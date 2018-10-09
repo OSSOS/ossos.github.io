@@ -1,6 +1,7 @@
 
       08 Oct 2018
-OSSOS corresondence list, for released blocks
+OSSOS corresondence list, for released blocks.  Cite:
+Bannister, M. et al (2018) Astrophysical Journal Supplement, 236, 18.
 
 This file is not intended to be a readable table, but rather a searchable
 file to find the linkages between an OSSOS designation and the IAU Minor
