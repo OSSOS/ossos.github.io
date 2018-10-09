@@ -1,0 +1,86 @@
+
+       08 Oct 2018
+MA (M. Alexandersen's survey) correspondence list 
+
+This file is not intended to be a readable table, but rather a searchable
+file to find the linkages between a CFEPS designation and the IAU Minor
+Planet Center designations (which include both temporary, packed temporary,
+and perhaps numbered or named designations
+
+mah01     K12UH7W   2012UW177 
+mah02     K12UH7V   2012UV177 
+mah03     K12UH7G   2012UG177 
+mah04     K12UH7J   2012UJ177 
+mah05     K12UH7L   2012UL177 
+mah06     K12UH7S   2012US177 
+mah07     K12UH7N   2012UN177 
+mah08     K12UH7K   2012UK177 
+mah09     K12UH7P   2012UP177 
+mah10     K12UH7Q   2012UQ177 
+mah11nt   
+mah12     K12UH7M   2012UM177 
+mah13     K12UH7O   2012UO177 
+mah14     K12UH7R   2012UR177 
+mah15     K12UH7H   2012UH177 
+mal01     K11Q99F   2011QF99  
+mal02     K11Uf1C   2011UC411 
+mal03     K11Uf0U   2011UU410 
+mal04     K11Uf1A   2011UA411 
+mal05     K11Uf0V   2011UV410 
+mal06     K11Uf0R   2011UR410 
+mal07     K11Uf0Q   2011UQ410 
+mal08     K11Uf1S   2011US411 
+mal09     K11Uf2Z   2011UZ412 
+mal10     K11Uf3A   2011UA413 
+mal11nt   K11Uf2U   2011UU412 
+mal12     K11Uf0P   2011UP410 
+mal13     K11Uf1N   2011UN411 
+mal14     K11Uf1O   2011UO411 
+mal15     K11Uf1K   2011UK411 
+mal16     K11Uf0Y   2011UY410 
+mal17     K11Uf0S   2011US410 
+mal18     K11Uf1H   2011UH411 
+mal19     K11Uf2Q   2011UQ412 
+mal20     K11Uf2R   2011UR412 
+mal21     K11Uf0X   2011UX410 
+mal22     K11Uf1E   2011UE411 
+mal23     K11Uf1R   2011UR411 
+mal24     K11Uf2K   2011UK412 
+mal25     K11Uf1F   2011UF411 
+mal26     K11Uf2P   2011UP412 
+mal27     K11Uf1J   2011UJ411 
+mal28     K11Uf0W   2011UW410 
+mal29     K11Uf2O   2011UO412 
+mal30     K04V75T   2004VT75  
+mal31     K11Uf0Z   2011UZ410 
+mal32     K11Uf1B   2011UB411 
+mal33     K11Uf1P   2011UP411 
+mal34     K11Uf1L   2011UL411 
+mal35     K11Uf0T   2011UT410 
+mal36     K11Uf2A   2011UA412 
+mal37     K11Uf1X   2011UX411 
+mal38     K11Uf2M   2011UM412 
+mal39     K11Uf2C   2011UC412 
+mal40     J99RL5U   1999RU215 
+mal41     K11Uf2N   2011UN412 
+mal42     K01RE3Z   2001RZ143 
+mal43     K11Uf1V   2011UV411 
+mal44     K11Uf2H   2011UH412 
+mal45     K11Uf1D   2011UD411 
+mal46     K11Uf1W   2011UW411 
+mal47     K11Uf1G   2011UG411 
+mal48     K11Uf2G   2011UG412 
+mal49     K11Uf2L   2011UL412 
+mal50     K11Uf2J   2011UJ412 
+mal51     K11Uf1Y   2011UY411 
+mal52     K11Uf1U   2011UU411 
+mal53     K11Uf2D   2011UD412 
+mal54     K11Uf2B   2011UB412 
+mal55     K11Uf1Z   2011UZ411 
+mal56     K11Uf2F   2011UF412 
+mal57     K11Uf2T   2011UT412 
+mal58     K11Uf2S   2011US412 
+mal59     K11Uf2E   2011UE412 
+mal60     K11Uf1M   2011UM411 
+mal61     K11Uf1T   2011UT411 
+mal62     K11Uf1Q   2011UQ411 
